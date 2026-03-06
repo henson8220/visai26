@@ -236,3 +236,7 @@ img {
     opacity: 0;
   }
 }
+
+.clip-path-triangle {
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}

@@ -116,54 +116,54 @@ const [celebrate, setCelebrate] = useState(false);
 
     
 {/* Core Spark Particles */}
-<span className="absolute top-10 left-10 w-3 h-3 bg-[#b68b1e] rounded-full animate-[sparkOnce_2s_ease-out_forwards]"></span>
-<span className="absolute top-20 right-16 w-3 h-3 bg-[#a16207] rounded-full animate-[sparkOnce_2.2s_ease-out_forwards]"></span>
-<span className="absolute bottom-24 left-20 w-3 h-3 bg-[#92400e] rounded-full animate-[sparkOnce_2.5s_ease-out_forwards]"></span>
-<span className="absolute bottom-32 right-10 w-3 h-3 bg-[#b45309] rounded-full animate-[sparkOnce_2.8s_ease-out_forwards]"></span>
+<span className="absolute top-10 left-10 w-3 h-3 bg-[#b68b1e] rounded-full animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute top-20 right-16 w-3 h-3 bg-[#a16207] rounded-full animate-[sparkOnce_3.2s_ease-out_forwards]"></span>
+<span className="absolute bottom-24 left-20 w-3 h-3 bg-[#92400e] rounded-full animate-[sparkOnce_3.5s_ease-out_forwards]"></span>
+<span className="absolute bottom-32 right-10 w-3 h-3 bg-[#b45309] rounded-full animate-[sparkOnce_3.8s_ease-out_forwards]"></span>
 
-<span className="absolute top-1/4 left-1/3 w-2 h-2 bg-[#b68b1e] rounded-full animate-[sparkOnce_2s_ease-out_forwards]"></span>
-<span className="absolute top-1/2 right-1/4 w-2 h-2 bg-[#a16207] rounded-full animate-[sparkOnce_2.4s_ease-out_forwards]"></span>
-<span className="absolute bottom-1/4 left-1/2 w-2 h-2 bg-[#92400e] rounded-full animate-[sparkOnce_2.6s_ease-out_forwards]"></span>
-<span className="absolute top-3/4 right-1/3 w-2 h-2 bg-[#b45309] rounded-full animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute top-1/4 left-1/3 w-2 h-2 bg-[#b68b1e] rounded-full animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute top-1/2 right-1/4 w-2 h-2 bg-[#a16207] rounded-full animate-[sparkOnce_3.4s_ease-out_forwards]"></span>
+<span className="absolute bottom-1/4 left-1/2 w-2 h-2 bg-[#92400e] rounded-full animate-[sparkOnce_3.6s_ease-out_forwards]"></span>
+<span className="absolute top-3/4 right-1/3 w-2 h-2 bg-[#b45309] rounded-full animate-[sparkOnce_4s_ease-out_forwards]"></span>
 
 {/* Tiny Glowing Streaks */}
-<span className="absolute top-16 left-1/4 w-8 h-[2px] bg-[#8b5e34]/60 rotate-12 blur-[1px] animate-[sparkOnce_2.2s_ease-out_forwards]"></span>
-<span className="absolute bottom-24 right-1/3 w-6 h-[2px] bg-[#a16207]/60 -rotate-12 blur-[1px] animate-[sparkOnce_2.5s_ease-out_forwards]"></span>
-<span className="absolute top-1/2 left-10 w-10 h-[2px] bg-[#7c2d12]/50 rotate-6 blur-[1px] animate-[sparkOnce_2.8s_ease-out_forwards]"></span>
+<span className="absolute top-16 left-1/4 w-8 h-[2px] bg-[#8b5e34]/60 rotate-12 blur-[1px] animate-[sparkOnce_3.2s_ease-out_forwards]"></span>
+<span className="absolute bottom-24 right-1/3 w-6 h-[2px] bg-[#a16207]/60 -rotate-12 blur-[1px] animate-[sparkOnce_3.5s_ease-out_forwards]"></span>
+<span className="absolute top-1/2 left-10 w-10 h-[2px] bg-[#7c2d12]/50 rotate-6 blur-[1px] animate-[sparkOnce_3.8s_ease-out_forwards]"></span>
 
 {/* Small Blurred Sparks */}
-<span className="absolute top-1/3 right-10 w-5 h-5 bg-[#b68b1e]/20 rounded-full blur-md animate-[sparkOnce_2.4s_ease-out_forwards]"></span>
-<span className="absolute bottom-20 left-1/4 w-6 h-6 bg-[#a16207]/20 rounded-full blur-md animate-[sparkOnce_2.7s_ease-out_forwards]"></span>
-<span className="absolute top-2/3 right-1/2 w-4 h-4 bg-[#92400e]/20 rounded-full blur-sm animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute top-1/3 right-10 w-5 h-5 bg-[#b68b1e]/20 rounded-full blur-md animate-[sparkOnce_3.4s_ease-out_forwards]"></span>
+<span className="absolute bottom-20 left-1/4 w-6 h-6 bg-[#a16207]/20 rounded-full blur-md animate-[sparkOnce_3.7s_ease-out_forwards]"></span>
+<span className="absolute top-2/3 right-1/2 w-4 h-4 bg-[#92400e]/20 rounded-full blur-sm animate-[sparkOnce_4s_ease-out_forwards]"></span>
 
 {/* Ink Dust Particles */}
-<span className="absolute top-12 left-1/2 w-1 h-1 bg-[#3b2f2f]/30 rounded-full animate-[sparkOnce_2s_ease-out_forwards]"></span>
-<span className="absolute bottom-16 right-1/4 w-1 h-1 bg-[#3b2f2f]/20 rounded-full animate-[sparkOnce_2.3s_ease-out_forwards]"></span>
-<span className="absolute top-2/3 left-20 w-1 h-1 bg-[#3b2f2f]/30 rounded-full animate-[sparkOnce_2.6s_ease-out_forwards]"></span>
-<span className="absolute bottom-1/3 right-8 w-1 h-1 bg-[#3b2f2f]/20 rounded-full animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute top-12 left-1/2 w-1 h-1 bg-[#3b2f2f]/30 rounded-full animate-[sparkOnce_3s_ease-out_forwards]"></span>
+<span className="absolute bottom-16 right-1/4 w-1 h-1 bg-[#3b2f2f]/20 rounded-full animate-[sparkOnce_3.3s_ease-out_forwards]"></span>
+<span className="absolute top-2/3 left-20 w-1 h-1 bg-[#3b2f2f]/30 rounded-full animate-[sparkOnce_3.6s_ease-out_forwards]"></span>
+<span className="absolute bottom-1/3 right-8 w-1 h-1 bg-[#3b2f2f]/20 rounded-full animate-[sparkOnce_4s_ease-out_forwards]"></span>
 
 {/* Envelope with Letter */}
-<div className="absolute top-1/3 -left-20 w-16 h-10 bg-[#f8f1e4] border border-[#8b6b4f] rounded-sm animate-[flyAcross_3s_linear_forwards] rotate-6 shadow-[0_10px_28px_rgba(60,40,20,0.35)] overflow-visible">
+<div className="absolute top-1/3 -left-20 w-16 h-10 bg-[#f8f1e4] border border-[#8b6b4f] rounded-sm animate-[flyAcross_4s_linear_forwards] rotate-6 shadow-[0_10px_28px_rgba(60,40,20,0.35)] overflow-visible">
 
   {/* Envelope flap */}
-  <div className="absolute inset-x-0 top-0 h-1/2 bg-[#ead7b8] border-b border-[#8b6b4f] animate-[envelopeOpen_1s_ease-in-out_1s_forwards] origin-top"></div>
+  <div className="absolute inset-x-0 top-0 h-1/2 bg-[#ead7b8] border-b border-[#8b6b4f] animate-[envelopeOpen_2s_ease-in-out_2s_forwards] origin-top"></div>
 
   {/* Letter slipping out */}
-  <div className="absolute left-2 top-1 w-12 h-6 bg-white border border-[#b89f7a] animate-[letterSlide_1s_ease-in-out_1.2s_forwards]"></div>
+  <div className="absolute left-2 top-1 w-12 h-6 bg-white border border-[#b89f7a] animate-[letterSlide_2s_ease-in-out_2.2s_forwards]"></div>
 </div>
 
 {/* Rotating Stamp */}
-<div className="absolute bottom-10 left-1/4 w-10 h-10 bg-[#a11d1d] border-2 border-[#ead7b8] rounded-sm animate-[flyUpStampRotate_3.5s_linear_forwards] shadow-[0_10px_28px_rgba(60,40,20,0.35)]">
+<div className="absolute bottom-10 left-1/4 w-10 h-10 bg-[#a11d1d] border-2 border-[#ead7b8] rounded-sm animate-[flyUpStampRotate_4.5s_linear_forwards] shadow-[0_10px_28px_rgba(60,40,20,0.35)]">
   <div className="absolute inset-1 border border-dashed border-[#f8f1e4]"></div>
 </div>
 
 {/* Postcard */}
-<div className="absolute top-10 -right-20 w-20 h-12 bg-[#e6d3b1] border border-[#7c5a3c] rounded-sm animate-[flyDiagonalLeft_4s_linear_forwards] -rotate-12 shadow-[0_10px_28px_rgba(60,40,20,0.35)] flex items-center justify-center text-[8px] text-[#2f241f] font-bold">
+<div className="absolute top-10 -right-20 w-20 h-12 bg-[#e6d3b1] border border-[#7c5a3c] rounded-sm animate-[flyDiagonalLeft_5s_linear_forwards] -rotate-12 shadow-[0_10px_28px_rgba(60,40,20,0.35)] flex items-center justify-center text-[8px] text-[#2f241f] font-bold">
   POSTMAN
 </div>
 
 {/* Extra Stamp from Right */}
-<div className="absolute top-1/2 right-0 w-9 h-9 bg-[#c2410c] border border-[#ead7b8] rounded-sm animate-[flyReverse_3s_linear_forwards] rotate-12 shadow-[0_10px_28px_rgba(60,40,20,0.3)]"></div>
+<div className="absolute top-1/2 right-0 w-9 h-9 bg-[#c2410c] border border-[#ead7b8] rounded-sm animate-[flyReverse_4s_linear_forwards] rotate-12 shadow-[0_10px_28px_rgba(60,40,20,0.3)]"></div>
   </div>
 
       <div
@@ -263,7 +263,7 @@ const [celebrate, setCelebrate] = useState(false);
 </div>
 
         {/* Typewriter Subtitle */}
-        <p className="text-lg md:text-2xl text-gray-300 max-w-2xl mx-auto mb-12 tracking-wider leading-relaxed text-[#5e4d3f]">
+        <p className="text-lg md:text-2xl max-w-2xl mx-auto mb-12 tracking-wider leading-relaxed text-[#4b3a2f]">
           {typedText}
           <span className="animate-pulse">|</span>
         </p>
