@@ -23,36 +23,52 @@ export default function Events() {
 
   const events = [
     {
-      title: "Worship & Praise",
-      desc: "A powerful time of worship bringing hearts together in praise and reflection."
+      title: "Singing",
+      desc: ""
     },
     {
-      title: "Bible Quiz",
-      desc: "Test your knowledge of Scripture through an engaging and competitive quiz."
+      title: "Quiz",
+      desc: ""
     },
     {
-      title: "Creative Arts",
-      desc: "Express faith through music, dance, drama, and visual creativity."
+      title: "Adzap",
+      desc: ""
     },
     {
-      title: "Group Discussions",
-      desc: "Interactive sessions encouraging dialogue, learning, and spiritual growth."
+      title: "Treasure Hunt",
+      desc: ""
     },
     {
-      title: "Message Sessions",
-      desc: "Inspiring messages that challenge and equip youth to live out God’s Word."
+      title: "Block and Tackle",
+      desc: ""
     },
     {
-      title: "Fun & Fellowship",
-      desc: "Build friendships and unity through joyful activities and shared experiences."
-    }
+      title: "Face Painting",
+      desc: ""
+    },
+      {
+      title: "Photography",
+      desc: ""
+    },
+      {
+      title: "Surprise Event",
+      desc: ""
+    },
+      {
+      title: "Street Photography",
+      desc: "Online Event"
+    },
+      {
+      title: "Reels Making",
+      desc: "Online Event"
+    },
   ];
 
   return (
     <section
       id="events"
       ref={sectionRef}
-      className="relative min-h-screen flex items-center px-6 md:px-12 py-24 text-white"
+      className="relative min-h-screen flex items-center px-6 md:px-12 py-24 text-white "
     >
       <div className="max-w-7xl mx-auto w-full">
         <div

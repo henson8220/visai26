@@ -8,7 +8,7 @@ export default function Hero() {
   // Countdown Logic
   // ---------------------------
   const calculateTimeLeft = () => {
-    const targetDate = new Date("March 26, 2026 00:00:00").getTime();
+    const targetDate = new Date("April 24, 2026 00:00:00").getTime();
     const now = new Date().getTime();
     const difference = targetDate - now;
 
@@ -52,7 +52,7 @@ export default function Hero() {
   const TitleText =
     "VISAI '26";
   const fullText =
-    "Delivering God's Message. Carrying the Word. April 25, 2026.";
+    "Delivering God's Word. Carrying the Message. April 24, 2026.";
     const themeText="POSTMAN";
   const [typedText, setTypedText] = useState("");
 const [typeTitleText, setTitleText] = useState("");

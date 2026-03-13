@@ -41,17 +41,18 @@ export default function About() {
               About VISAI '26
             </h2>
 
-            <p className="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-[#4b3a2f]">
-              VISAI 2026 is a dynamic interchurch youth gathering designed to
-              ignite passion, inspire purpose, and celebrate talent. It brings
-              together young individuals for powerful experiences, creative
-              competitions, and meaningful fellowship.
+            <p className="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed text-[#4b3a2f] italic">
+              "Those who hope in the Lord
+    will renew their strength.
+They will soar on wings like eagles;
+    they will run and not grow weary,
+    they will walk and not be faint." - Isaiah 40:31 
             </p>
           </div>
 
           {/* What You Can Expect */}
           <h3 className="text-3xl md:text-4xl font-semibold text-center uppercase tracking-wide mb-12 text-[#3b2f2f]">
-            What You Can Expect
+            
           </h3>
 
           <div className="grid gap-8 md:grid-cols-3">

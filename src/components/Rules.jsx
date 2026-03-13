@@ -22,12 +22,15 @@ export default function Rules() {
   }, []);
 
   const rulesList = [
-    "Participants must register before the deadline.",
-    "Respect all staff, volunteers, and fellow participants.",
-    "Follow the event schedule and arrive on time.",
-    "Adhere to all safety instructions during competitions.",
-    "Maintain a positive and encouraging attitude.",
-    "Personal electronic devices should be used responsibly.",
+    "On the day of the Event, the registration will be open from 8:30 AM to 9:30 AM.",
+    "All participants must be between 18 and 35 years of age.",
+    "The registration fee is Rs. - per church",
+    "Please confirm your participation on or before April 15th through online registration form.",
+    "All Online event submissions must be completed on or before April 20th.",
+    "Please adhere to the schedule, follow volunteer instructions and respect the church campus.",
+    "No abusive language or disruptive behavior will be encouraged.",
+    "Any act of misconduct or malpractices results in disqualification",
+    "The verdict of the organizers will be final"
   ];
 
   return (

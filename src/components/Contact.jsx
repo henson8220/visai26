@@ -83,18 +83,21 @@ export default function Contact() {
             {/* Right Side - Contact Details */}
             <div className="p-8 rounded-2xl border border-white/10 bg-white/5 backdrop-blur-md">
               <h3 className="text-2xl font-semibold mb-6">
-                Contact Details
+                Contact
               </h3>
 
               <div className="space-y-4 text-gray-300 text-lg">
                 <p>
-                  📞 +91 98765 43210
+                  📞 Mr. Andrew Vimalraj 9444363297 Youth Secretary
                 </p>
                 <p>
-                  📞 +91 91234 56789
+                  📞 Mr. Samuel Yuvaraj 9790703460 Youth Treasurer
+                </p>
+                  <p>
+                  📞 Ms. Merlin Shalina 9840632607 Youth Convenor
                 </p>
                 <p>
-                  ✉ neoblaze2026@email.com
+                  ✉ csichurchofjesusthelord@email.com
                 </p>
               </div>
             </div>

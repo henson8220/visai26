@@ -48,7 +48,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-gray-500 text-sm">
-          © {new Date().getFullYear()} VISAI 2026. All Rights Reserved.
+          © {new Date().getFullYear()} VISAI 2026.
         </p>
       </div>
     </footer>

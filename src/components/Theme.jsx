@@ -148,7 +148,7 @@ export default function Theme() {
 
           {/* Optional Verse */}
           <p className="mt-10 text-[#cdb792] italic">
-            “How beautiful are the feet of those who bring good news.” – Romans 10:15
+            “He said to them, 'Go into all the world and preach the gospel to all creation.” – Mark 16:15
           </p>
         </div>
       </div>
