@@ -109,7 +109,7 @@ const [celebrate, setCelebrate] = useState(false);
     <section
       id="home"
       ref={heroRef}
-      className="relative min-h-screen flex items-center justify-center text-center px-6 bg-[#e8dcc3] text-[#2f241f]"
+      className="relative min-h-screen flex items-center justify-center text-center px-6 bg-[#e8dcc3] text-[#2f241f] overflow-hidden"
     >
 
   <div className="absolute inset-0 pointer-events-none overflow-hidden z-20">

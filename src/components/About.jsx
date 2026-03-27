@@ -25,7 +25,7 @@ export default function About() {
     <section
       id="about"
       ref={sectionRef}
-      className="min-h-screen flex items-center px-6 py-24 text-white bg-[#cdb792] text-[#2f241f]"
+      className="min-h-screen flex items-center px-6 py-24 bg-[#cdb792] text-[#2f241f]"
     >
       <div className="max-w-7xl mx-auto w-full">
         <div

@@ -65,12 +65,12 @@ export default function Events() {
   ];
 
   return (
-    <section
-      id="events"
-      ref={sectionRef}
-      className="relative min-h-screen flex items-center px-6 md:px-12 py-24 text-white "
-    >
-      <div className="max-w-7xl mx-auto w-full">
+   <section
+  id="events"
+  ref={sectionRef}
+  className="relative min-h-screen flex items-center px-6 md:px-12 py-24 text-white overflow-hidden"
+>
+  <div className="max-w-7xl mx-auto w-full px-2">
         <div
           className={`transition-all duration-1000 ease-out ${
             visible
