@@ -126,7 +126,7 @@ export default function Hero() {
  <img
   src={VisaiLogo}
   style={{ width: "290px" }}
-  className={`${visible ? "animate-logoFade" : "opacity-0"}`}
+  className={`${visible ? "scale-100 opacity-100" : "scale-75 opacity-0"}`}
 />
 </div>
 
