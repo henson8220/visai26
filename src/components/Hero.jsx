@@ -185,6 +185,13 @@ export default function Hero() {
           )}
 
           {/* CTA */}
+          
+      <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeC-ChjNb5UPlbkxTw-CsTTX0FlGBFilPP8TswDJPfMnZZRmA/viewform"
+            className="px-8 py-3 bg-yellow-400 text-black rounded-full font-semibold hover:scale-105 transition"
+          >
+            Register
+          </a>
           <a
             href="#events"
             className="px-8 py-3 bg-yellow-400 text-black rounded-full font-semibold hover:scale-105 transition"
