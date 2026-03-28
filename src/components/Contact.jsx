@@ -110,7 +110,7 @@ export default function Contact() {
                     href="mailto:csichurchofjesusthelord@email.com"
                     className="text-amber-400 hover:text-amber-300 transition-colors text-sm break-all"
                   >
-                    csichurchofjesusthelord@email.com
+                    jlyfvisai@gmail.com
                   </a>
                 </div>
 

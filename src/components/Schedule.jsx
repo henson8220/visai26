@@ -48,7 +48,7 @@ export default function Schedule() {
     },
     {
       time: "2:30 – 3:30 PM",
-      title: "Quiz Finals & Surprise Event",
+      title: "Quiz Finals",
     },
     {
       time: "3:30 – 5:00 PM",

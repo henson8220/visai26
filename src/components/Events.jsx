@@ -25,6 +25,7 @@ const events = [
       "One female participant is mandatory per team.",
       "Rules will be disclosed on the spot.",
       "Any malpractice leads to immediate disqualification.",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -38,6 +39,7 @@ const events = [
       "Time limit: 60 minutes.",
       "Participants must bring their own materials. No harmful or unsafe materials allowed.",
       "Original ideas without plagiarism will be appreciated.",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -50,6 +52,7 @@ const events = [
       "Photos must be original — plagiarism leads to disqualification.",
       "Submission must include a title and short description in JPG or PNG format.",
       "Use of DSLR or mobile is allowed.",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -61,7 +64,7 @@ const events = [
       "Team event — minimum 5 members per team.",
       "Songs must be in own composition based on the theme.",
       "Time limit: 7 minutes including instrument setup.",
-      "Karaoke/backtrack allowed — participants must bring it.",
+      "Use of claps, hums, snaps and similar effects may enhance the overall performance.",
       "Keyboard and Drums will be provided.",
       "Judges' decision will be final and binding.",
     ],
@@ -89,7 +92,7 @@ const events = [
       "Prelims: Written test — Portions: Acts and Gospel of Mark (44 Chapters).",
       "Finals: Multiple rounds — Portions: Full Bible.",
       "Language: English (NIV) or Tamil (Standard Version).",
-      "Judges' decision will be final.",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -100,6 +103,7 @@ const events = [
     rules: [
       "Details will be revealed on the day of the event.",
       "Be prepared for anything!",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -115,7 +119,7 @@ const events = [
       "File name format: Name_ChurchName_StreetPhotography",
       "Submission deadline: 22nd April 2026.",
       "No offensive, inappropriate, or non-Christian content.",
-      "Judges' decision will be final.",
+      "Judges' decision will be final and binding.",
     ],
   },
   {
@@ -134,6 +138,7 @@ const events = [
       "Submit via Google Drive link with title & short description.",
       "File name format: Name_ChurchName_Reels",
       "Submission deadline: 22nd April 2026. Late entries will not be accepted.",
+      "Judges' decision will be final and binding.",
     ],
   },
 ];
