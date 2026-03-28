@@ -24,34 +24,40 @@ export default function Schedule() {
   const scheduleItems = [
     {
       time: "09:00 AM",
-      title: "Opening Ceremony",
-      desc: "Welcome and introductions to kick off NEOBLAZE 2026."
+      title: "Registration",
     },
     {
-      time: "10:30 AM",
-      title: "Worship Session",
-      desc: "Uplifting session of praise and worship."
+      time: "09:30 – 10:00 AM",
+      title: "Worship",
     },
     {
-      time: "12:00 PM",
-      title: "Workshops",
-      desc: "Interactive workshops and group activities."
+      time: "10:00 – 10:50 AM",
+      title: "Inauguration of Visai '26",
     },
     {
-      time: "02:00 PM",
-      title: "Break / Fellowship",
-      desc: "Lunch and fellowship time among attendees."
+      time: "11:00 AM – 1:00 PM",
+      title: "Photography & Treasure Hunt",
     },
     {
-      time: "03:30 PM",
-      title: "Competitions",
-      desc: "Inter-group creative and fun competitions."
+      time: "11:00 AM – 12:00 PM",
+      title: "Quiz & Adzap",
     },
     {
-      time: "06:00 PM",
-      title: "Evening Message",
-      desc: "Inspiration and teaching from invited speakers."
-    }
+      time: "12:00 – 1:00 PM",
+      title: "Block and Tackle & Face Painting",
+    },
+    {
+      time: "2:30 – 3:30 PM",
+      title: "Quiz Finals & Surprise Event",
+    },
+    {
+      time: "3:30 – 5:00 PM",
+      title: "Singing",
+    },
+    {
+      time: "5:30 PM Onwards",
+      title: "Valedictory",
+    },
   ];
 
   return (
@@ -90,7 +96,7 @@ export default function Schedule() {
 
                 {/* Card */}
                 <div className="p-6 rounded-2xl border border-white/10 bg-white/5 backdrop-blur-md hover:-translate-y-1 hover:border-white/30 transition-all duration-500 w-full">
-                  <div className="flex justify-between items-center mb-2">
+                  <div className="flex justify-between items-center">
                     <span className="text-yellow-400 font-bold text-lg">
                       {item.time}
                     </span>
@@ -98,9 +104,6 @@ export default function Schedule() {
                       {item.title}
                     </h3>
                   </div>
-                  <p className="text-gray-300">
-                    {item.desc}
-                  </p>
                 </div>
               </div>
             ))}
