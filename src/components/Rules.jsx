@@ -30,7 +30,7 @@ export default function Rules() {
   "Participants are requested to adhere to the event schedule, follow the instructions and respect the church campus property at all times.",
   "No abusive language or disruptive behavior will be encouraged.",
   "Any act of misconduct or malpractice will results in disqualification.",
-  "Please note that the decision of the judges will be final and binding."
+  "The decision of the judges will be final."
 ];
 
   return (

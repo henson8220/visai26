@@ -12,7 +12,7 @@ const events = [
       "Every point must begin clearly with the words \"Block\" or \"Tackle\", without repetition.",
       "Total time: 5 minutes — 2 mins preparation & 3 mins performance.",
       "Maintain clarity, relevance, and biblical accuracy in all points.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -25,7 +25,7 @@ const events = [
       "One female participant is mandatory per team.",
       "Rules will be disclosed on the spot.",
       "Any malpractice leads to immediate disqualification.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -39,7 +39,7 @@ const events = [
       "Time limit: 60 minutes.",
       "Participants must bring their own materials. No harmful or unsafe materials allowed.",
       "Original ideas without plagiarism will be appreciated.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -52,7 +52,7 @@ const events = [
       "Photos must be original — plagiarism leads to disqualification.",
       "Submission must include a title and short description in JPG or PNG format.",
       "Use of DSLR or mobile is allowed.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -66,7 +66,7 @@ const events = [
       "Time limit: 7 minutes including instrument setup.",
       "Use of claps, hums, snaps and similar effects may enhance the overall performance.",
       "Keyboard and Drums will be provided.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -79,7 +79,7 @@ const events = [
       "Total time: 7 minutes — 3 mins preparation & 4 mins performance.",
       "Props allowed but must be simple.",
       "Content must be respectful, original, humorous, and spiritual.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -92,7 +92,7 @@ const events = [
       "Prelims: Written test — Portions: Acts and Gospel of Mark (44 Chapters).",
       "Finals: Multiple rounds — Portions: Full Bible.",
       "Language: English (NIV) or Tamil (Standard Version).",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -103,7 +103,7 @@ const events = [
     rules: [
       "Details will be revealed on the day of the event.",
       "Be prepared for anything!",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -119,7 +119,7 @@ const events = [
       "File name format: Name_ChurchName_StreetPhotography",
       "Submission deadline: 22nd April 2026.",
       "No offensive, inappropriate, or non-Christian content.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
   {
@@ -138,7 +138,7 @@ const events = [
       "Submit via Google Drive link with title & short description.",
       "File name format: Name_ChurchName_Reels",
       "Submission deadline: 22nd April 2026. Late entries will not be accepted.",
-      "Judges' decision will be final and binding.",
+      "Judges' decision will be final.",
     ],
   },
 ];
@@ -237,19 +237,14 @@ export default function Events() {
       <div className="max-w-7xl mx-auto w-full">
         <div className={`transition-all duration-1000 ease-out ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}>
 
-          {/* Label */}
-          <p className="uppercase tracking-[0.3em] text-sm text-gray-400 mb-4 text-center">
-            What's Happening
-          </p>
+         
 
           {/* Heading */}
           <h2 className="text-4xl md:text-6xl font-bold uppercase tracking-widest text-center mb-4">
             Events
           </h2>
 
-          <p className="text-center text-gray-400 mb-16 text-sm">
-            Click on any event to view its rules & regulations
-          </p>
+          
 
           {/* On-site Events */}
           <h3 className="text-xs uppercase tracking-[0.3em] text-amber-400 mb-4 font-semibold">
