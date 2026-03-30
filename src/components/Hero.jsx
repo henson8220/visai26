@@ -132,13 +132,7 @@ export default function Hero() {
 
         {/* POSTMAN */}
         <div className="relative inline-block mb-8">
-          {/* <div className="absolute inset-0 flex items-center justify-center opacity-15 scale-125 rotate-[-12deg]">
-            <svg viewBox="0 0 200 200" className="w-56 h-56">
-              <circle cx="100" cy="100" r="80" fill="none" stroke="#dc2626" strokeWidth="4"/>
-              <circle cx="100" cy="100" r="58" fill="none" stroke="#b91c1c" strokeWidth="2"/>
-              <line x1="30" y1="100" x2="170" y2="100" stroke="#b91c1c" strokeWidth="3"/>
-            </svg>
-          </div> */}
+       
 
           <h1 className="relative text-5xl md:text-8xl lg:text-9xl font-extrabold tracking-[0.25em]">
             {typeThemeText}

@@ -22,12 +22,12 @@ export default function Rules() {
   }, []);
 
  const rulesList = [
-  "On the day of the event, registration will be open between 8:30 AM and 9:30 AM.",
+  "The Registration will be open between 8:30 AM and 9:30 AM.",
   "All participants should be between 18 and 35 years of age.",
   "The registration fee is Rs.1500 per church and Rs.100 for individual participants. Cheque in favour of CSI WEST TAMBARAM PASTORATE - GENERAL FUND A/C.",
-  "Confirm your participation on or before April 15 by completing the Online registration form.",
+  "Confirm your participation on or before April 10 by completing the Online registration form.",
   "All online event submissions must be completed on or before April 22nd.",
-  "Participants are requested to adhere to the event schedule, follow the instructions and respect the church campus property at all times.",
+  "Participants are requested to follow the instructions and respect the church campus property at all times.",
   "No abusive language or disruptive behavior will be encouraged.",
   "Any act of misconduct or malpractice will results in disqualification.",
   "The decision of the judges will be final."

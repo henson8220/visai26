@@ -21,7 +21,7 @@ function App() {
         <>
           <Navbar />
           <Hero />
-          {/* <About /> */}
+          <About />
           <Theme />
           <Events />
           <Rules />
