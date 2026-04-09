@@ -73,10 +73,10 @@ const events = [
     type: "On-site",
     emoji: "📢",
     title: "Adzap",
-    desc: "Team of 4–6 • 7 mins total (3 prep + 4 performance) • Props allowed",
+    desc: "Team of 4–6 • 7 mins total (4 prep + 3 performance) • Props allowed",
     rules: [
       "Team event — 4 to 6 members.",
-      "Total time: 7 minutes — 3 mins preparation & 4 mins performance.",
+      "Total time: 7 minutes — 4 mins preparation & 3 mins performance.",
       "Props allowed but must be simple.",
       "Content must be respectful, original, humorous, and spiritual.",
       "Judges' decision will be final.",
